@@ -1,0 +1,26 @@
+1.Predict the output
+
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+while ('1' < '2')
+cout << "In while loop" << endl;
+}
+
+Explanation:
+'1'= 49
+'2'= 50
+49 < 50 The condition is always true. This is an infinite loop. This will print the statement "In while loop" infinite times in a new line.
+
+Output:
+In while loop
+In while loop
+In while loop
+In while loop
+In while loop
+...
+...
+...
+...
+...
+upto infinity
