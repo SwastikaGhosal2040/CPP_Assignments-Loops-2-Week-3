@@ -1,0 +1,7 @@
+The code will print Hello 3 times in 3 different lines.
+Atfirst 10 value will be assigned to the int variable t.
+Condition of the while loop is t=t/2 means, t=5, [any number other than 0] means 
+                            condition is true.-> Hello is printed.
+Now again t=t/2 means, t=2, condition is true.-> Hello is printed.
+Now again t=t/2 means, t=1, condition is true.-> Hello is printed.
+Now again t=t/2 means, t=0, condition is false.-> Loop ends.
