@@ -1,0 +1,24 @@
+Explanation:
+value 10 is assigned inside integer x and value 0 is assigned inside integer y.
+condition: x>=y -> 10>=0 -> True 
+x--, x=9 ; y++, y=1;  9  1 is printed.
+9>=1 -> True
+x--, x=8 ; y++, y=2;  8  2 is printed.
+8>=2 -> True
+x--, x=7 ; y++, y=3;  7  3 is printed.
+7>=3 -> True
+x--, x=6 ; y++, y=4;  6  4 is printed.
+6>=4 -> True
+x--, x=5 ; y++, y=5;  5  5 is printed.
+5>=5 -> True
+x--, x=4 ; y++, y=6;  4  6 is printed.
+4>=6 -> False
+Loop ends.
+
+Output :
+9 1
+8 2
+7 3
+6 4
+5 5
+4 6
